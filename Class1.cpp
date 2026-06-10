@@ -1,3 +1,8 @@
+/* This program demonstrates the use of a parameterized constructor in C++.
+ It defines a Student class with a parameterized constructor that initializes the name, age, and
+ roll number of a student. The main function creates a Student object using the parameterized constructor 
+ and displays the student's information. */
+
 #include<iostream>  
 using namespace std;    
 class Student

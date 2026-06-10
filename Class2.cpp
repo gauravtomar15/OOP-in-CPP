@@ -1,3 +1,7 @@
+/* This program demonstrates the use of different types of constructors in C++.
+It defines a Customer class with a default constructor, a parameterized constructor, an overloaded constructor, and a copy constructor.
+ The main function creates several Customer objects using different constructors and displays their information. */
+
 #include<iostream>
 using namespace std;
 
